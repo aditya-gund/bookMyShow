@@ -20,6 +20,10 @@ public class BookingRepository {
         return bookingMap.containsKey(id);
     }
 
+    public Map<Integer, Booking> findAll() {
+        return bookingMap;
+    }
+
     public void remove(int id) {
         bookingMap.remove(id);
     }
