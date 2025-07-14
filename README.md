@@ -1,4 +1,4 @@
-# 📘 Live Show Booking System – Take-Home Assignment
+# 📘 Live Show Booking System – Java Assignment Thinkify.io
 
 This is an in-memory, console-based implementation of a **Live Show Booking System**, designed as part of a Low-Level Design (LLD) assignment.  
 It allows organizers to create shows and time slots, and users to book or cancel tickets, all within well-defined system constraints.
