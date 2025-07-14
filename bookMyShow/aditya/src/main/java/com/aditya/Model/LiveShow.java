@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import com.aditya.constant.Genre;
-import com.aditya.constant.TimeSlot;
+import com.aditya.pojo.TimeSlot;
 
 public class LiveShow {
 	private String name;

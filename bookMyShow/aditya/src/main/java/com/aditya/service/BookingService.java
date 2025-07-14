@@ -6,7 +6,7 @@ import com.aditya.Model.ShowSlot;
 import com.aditya.Model.User;
 import com.aditya.Utils.BookingIdGenerator;
 import com.aditya.constant.BookingStatus;
-import com.aditya.constant.TimeSlot;
+import com.aditya.pojo.TimeSlot;
 import com.aditya.repository.BookingRepository;
 import com.aditya.repository.LiveShowRepository;
 import com.aditya.repository.UserRepository;

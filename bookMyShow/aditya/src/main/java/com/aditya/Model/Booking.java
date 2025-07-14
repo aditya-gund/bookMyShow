@@ -1,7 +1,7 @@
 package com.aditya.Model;
 
 import com.aditya.constant.BookingStatus;
-import com.aditya.constant.TimeSlot;
+import com.aditya.pojo.TimeSlot;
 
 public class Booking {
 	private int bookingId;

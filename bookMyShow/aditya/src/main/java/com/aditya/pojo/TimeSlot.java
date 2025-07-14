@@ -1,4 +1,4 @@
-package com.aditya.constant;
+package com.aditya.pojo;
 
 import java.util.Objects;
 

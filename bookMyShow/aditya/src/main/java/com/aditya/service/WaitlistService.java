@@ -3,7 +3,7 @@ package com.aditya.service;
 import com.aditya.Model.Booking;
 import com.aditya.Model.ShowSlot;
 import com.aditya.constant.BookingStatus;
-import com.aditya.constant.TimeSlot;
+import com.aditya.pojo.TimeSlot;
 import com.aditya.repository.BookingRepository;
 import com.aditya.repository.UserRepository;
 

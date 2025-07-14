@@ -8,7 +8,7 @@ import java.util.Map;
 import com.aditya.Model.LiveShow;
 import com.aditya.Model.ShowSlot;
 import com.aditya.constant.Genre;
-import com.aditya.constant.TimeSlot;
+import com.aditya.pojo.TimeSlot;
 import com.aditya.repository.LiveShowRepository;
 
 public class ShowService {

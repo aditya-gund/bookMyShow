@@ -2,6 +2,7 @@ package com.aditya.driver;
 
 import com.aditya.constant.BookingStatus;
 import com.aditya.constant.Genre;
+import com.aditya.pojo.TimeSlot;
 import com.aditya.Model.Booking;
 import com.aditya.constant.*;
 import com.aditya.repository.BookingRepository;
